@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="/css/voca.css">
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="https://cloud.oscie.net/flower.jpg">
+</head>
+<body>
+
+    {% include navbar_jp.html %}
+
+    <div class="content">
+        {{ content }}
+    </div>
+    
+</body>
+</html>
