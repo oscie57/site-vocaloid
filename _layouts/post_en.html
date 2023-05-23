@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ page.title }} | oscie・VOCALOID</title>
+
+    <link rel="stylesheet" href="/css/voca.css">
+
+    <meta property="og:title" content="{{ page.title }} | oscie・VOCALOID" />
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="https://cloud.oscie.net/flower.jpg">
+</head>
+<body>
+
+    {% include navbar_en.html %}
+
+    <div class="postcontainer">
+
+        {{ content }}
+
+    </div>
+</body>
+</html>

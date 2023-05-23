@@ -1,0 +1,22 @@
+# Make all rendered pages use the default theme by default.
+# Additionally, let scripts be defined but empty.
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      scripts:
+
+
+
+
+# Site Links
+discord: https://discord.gg/ymb84qM54A
+github: https://github.com/oscie57
+email: mailto:vocaloid@oscie.net
+
+# Vocaloid Links
+youtube: https://youtube.com/@oscie-p
+niconico: https://nicovideo.jp/series/409195
+twitter: https://twitter.com/oscie_p

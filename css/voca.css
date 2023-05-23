@@ -27,47 +27,94 @@ body {
     font-weight: normal !important;
 }
 
+/* Postbox & Credits */
+
+.postcontainer {
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.postbox {
+    background-color: #ffffff6e;
+    border-radius: 10px;
+
+    backdrop-filter: blur(8px);
+    box-shadow: 0px 0px 16px rgba(255, 255, 255, 0.371);
+  
+    padding: 10px;
+}
+
+.postmaintable {
+    width: 100%;
+}
+.postbox h1 {
+    padding-left: 20px;
+}
+.postimage {
+    width: 40%;
+}
+.postimage .links {
+    width: 100%;
+}
+.postimage .links a {
+    font-size: 1.3em;
+}
+.postdetails {
+    width: 60%;
+}
+.postdetails h4 {
+    line-height: 15px;
+}
+
 /* Work Icons */
 .icon-yt {
-  background: url('/assets/vocaloid/icon-yt.png');
-  display: block;
-  align-items: left;
-  width:20px;height:20px;background-size:cover;
+    background: url('/assets/vocaloid/icon-yt.png');
+    background-size: cover;
+    display: block;
+    align-items: left;
+
+    width: 30px;
+    height: 30px;
 }
 
 .icon-nn {
-  background: url('/assets/vocaloid/icon-nn.png');
-  display: block;
-  align-items: left;
-  width:20px;height:20px;background-size:cover;
+    background: url('/assets/vocaloid/icon-nn.png');
+    background-size:cover;
+    display: block;
+    align-items: left;
+
+    width: 30px;
+    height: 30px;
 }
 
 
 /* Work Items */
 
 .worktable {
-  width: 100%;
+    width: 100%;
 }
 .workitem {
-  background-color: #ffffff6e;
-  border-radius: 10px;
+    background-color: #ffffff6e;
+    border-radius: 10px;
 
-  backdrop-filter: blur(8px);
-  box-shadow: 0px 0px 16px rgba(255, 255, 255, 0.371);
+    backdrop-filter: blur(8px);
+    box-shadow: 0px 0px 16px rgba(255, 255, 255, 0.371);
   
-  padding: 10px;
+    padding: 10px;
 }
 .links {
-  width: 100%;
+    width: 100%;
 }
 #youtube {
-  color: rgb(163, 46, 46);
-  padding-left: 50px;
+    color: rgb(163, 46, 46);
+    padding-left: 50px;
 }
 #niconico {
-  color: rgb(33, 99, 33);
-  float:right;
-  padding-right: 50px;
+    color: rgb(33, 99, 33);
+    float:right;
+    padding-right: 50px;
 }
 
 
@@ -82,32 +129,32 @@ body {
 }
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
-  color: #272727;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+    float: left;
+    color: #272727;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #eaeaea6e;
-  color: black;
+    background-color: #eaeaea6e;
+    color: black;
 }
 /* Right-aligned section inside the top navigation */
 .topnav-right {
-  float: right;
+    float: right;
 }
 /* Hover colours */
 #red:hover {
-  background-color: #ff19196e;
-  color: white;
+    background-color: #ff19196e;
+    color: white;
 }
 #black:hover {
-  background-color: #1717176e;
-  color: white;
+    background-color: #1717176e;
+    color: white;
 }
 #blue:hover {
-  background-color: #1994ff6e;
-  color: white;
+    background-color: #1994ff6e;
+    color: white;
 }
