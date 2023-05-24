@@ -1,8 +1,33 @@
 ---
-layout: default_jp
+layout: none
 title: oscie・ボカロ
-description: 近日公開...
-lang: jp
+description: Language selection
 ---
 
-<h1>近日公開</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="/css/lang.css">
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:image" content="https://cloud.oscie.net/flower.jpg">
+
+    <script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <div class="content">
+        <h1>Select a language!</h1>
+        <h2>言語を選択する！</h2>
+
+        <br>
+    
+        <a href="/jp"><button class="button">🇯🇵 日本語</button></a>
+        <a href="/en"><button class="button">🇬🇧 English</button></a>
+    </div>
+    
+</body>
+</html>

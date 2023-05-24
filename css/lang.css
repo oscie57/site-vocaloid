@@ -1,0 +1,51 @@
+@font-face {
+    font-family: diva_font;
+    src: url(/assets/nintendo_NTLG.woff),
+    url(/assets/nintendo_NTLG.woff2);
+}
+
+@import url("https://cdn.jsdelivr.net/npm/@mdi/font@7.1.96/css/materialdesignicons.min.css");
+@import url("https://unpkg.com/twemoji@latest/dist/twemoji.min.js");
+
+body {
+    background-image: url('/assets/virtual.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    font-family: diva_font;
+    font-size: 16px;
+}
+
+.content {
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-top: 12%;
+
+    text-align: center;
+
+    font-weight: normal !important;
+}
+
+.button {
+    font-family: diva_font;
+    font-size: 16px;
+
+    background-color: #58a6f3;
+
+    border: none;
+    border-radius: 10px;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button:hover {
+    background-color: #83c1ff;
+}
