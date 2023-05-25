@@ -1,0 +1,44 @@
+Please do not redistribute without permission.<br>
+Contact: https://vocaloid.oscie.net/en/about
+<br><br>
+PV created by LillieRose using MMD.
+<br><br>
+Base model - TDA/jjinomu<br>
+https://www.deviantart.com/jjinomu/art/DL-Tda-V4-Flower-3200-WATCHERS-GIFT-561406005
+<br><br>
+Modelling and textures by SEGA<br>
+Ripping script - minmode, Skyth, Rich Whitehouse, Chrrox<br>
+Fx - khoast40 (MES40)<br>
+Ripping & Stage Animation - Dan1024<br>
+https://www.deviantart.com/dan1024/art/MMD-PDFT-Love-Colored-Ward-Stage-Download-903509084
+<br><br>
+Animations/Motions - SEGA/MARZA ANIMATION PLANET INC.<br>
+Animation/Motion Script - Minmode<br>
+PD PSP Motion Script - korenkonder<br>
+Convert to MMD - FlyingSpirits<br>
+https://www.fs-pblog.com/post/project-diva-motion-convert-mmd-downloads
+<br><br>
+Camera motion - SEGA<br>
+Ripping Script - Banitron<br>
+Ripping & Conversion - Banitron<br>
+https://www.deviantart.com/banitron/art/Pack-2-LC-Ward-Rom-Req-Marginal-and-Saihate-761395107
+<br><br>
+MIDI/VPR/VSQx/UST by fevernight123<br>
+Lyrics/Composition/Arrangement - OSTER project<br>
+Vocals - flower/VOCALOID4<br>
+Assistance - LillieRose<br>
+https://www.nicovideo.jp/watch/sm7361534
+<br><br>
+Effects used:<br>
+Raycast 1.5.0 (https://github.com/ray-cast/ray-mmd)
+<br><br>
+Created using MikuMikuDance<br>
+https://sites.google.com/view/vpvp/<br>
+Audio created using VOCALOID4<br>
+https://www.vocaloid.com/
+<br><br>
+Inquiries, suggestions, and issues please contact vocaloid@oscie.net
+<br><br>
+(C) SEGA http://miku.sega.com<br>
+(C) Crypton Future Media, INC. http://www.crypton.net<br>
+Product names and company names listed on http://www.piapro.net are registered trademarks of their respective companies.
