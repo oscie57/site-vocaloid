@@ -46,6 +46,57 @@ a {
     align-items: end;
 }
 
+
+/* Scroll Bar CSS */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background-color: rgb(255, 255, 255)
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(216, 193, 237);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(207, 151, 238);
+}
+
+
+/* Thumbnail */
+
+.thumb {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.thumb-icon {
+    position: absolute;
+    top: 8px;
+    right: 2%;
+
+    font-size: 0.8em;
+
+    padding: 5px;
+    border-radius: 5px;
+
+    background-color: #8a31ff;
+}
+
+.thumb-icon-2 {
+    position: absolute;
+    top: 8px;
+    right: 3%;
+
+    font-size: 1em;
+
+    padding: 8px;
+    border-radius: 5px;
+
+    background-color: #8a31ff;
+}
+
 /* Credits page */
 
 .glowbox {
