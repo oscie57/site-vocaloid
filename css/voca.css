@@ -17,10 +17,17 @@ body {
     font-size: 16px;
 }
 
+img {
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+}
+
 .content {
     padding-left: 12%;
     padding-right: 12%;
-    padding-top: 12%;
+    padding-top: 8%;
 
     text-align: center;
 
@@ -43,7 +50,7 @@ body {
     backdrop-filter: blur(8px);
     box-shadow: 0px 0px 16px rgba(255, 255, 255, 0.371);
   
-    padding: 10px;
+    padding: 30px;
 }
 
 .postmaintable {
@@ -69,8 +76,27 @@ body {
 }
 
 /* Work Icons */
-.icon-yt {
-    background: url('/assets/vocaloid/icon-yt.png');
+.icon-yt-small {
+    background: url('/assets/icon/icon-yt.png');
+    background-size: cover;
+    display: block;
+    align-items: left;
+
+    width: 22px;
+    height: 22px;
+}
+.icon-nn-small {
+    background: url('/assets/icon/icon-nn.png');
+    background-size:cover;
+    display: block;
+    align-items: left;
+
+    width: 22px;
+    height: 22px;
+}
+
+.icon-yt-large {
+    background: url('/assets/icon/icon-yt.png');
     background-size: cover;
     display: block;
     align-items: left;
@@ -78,9 +104,8 @@ body {
     width: 30px;
     height: 30px;
 }
-
-.icon-nn {
-    background: url('/assets/vocaloid/icon-nn.png');
+.icon-nn-large {
+    background: url('/assets/icon/icon-nn.png');
     background-size:cover;
     display: block;
     align-items: left;
@@ -103,6 +128,11 @@ body {
     box-shadow: 0px 0px 16px rgba(255, 255, 255, 0.371);
   
     padding: 10px;
+
+    width: 33%;
+}
+.workitem-blank {
+    background-color: #00000000
 }
 .links {
     width: 100%;
@@ -115,6 +145,13 @@ body {
     color: rgb(33, 99, 33);
     float:right;
     padding-right: 50px;
+}
+#niconico2 {
+    color: rgb(33, 99, 33);
+}
+.workitem a{
+    text-decoration: none;
+    color: #5f32c9
 }
 
 
