@@ -40,3 +40,59 @@ lang: en
 
     {% include_relative credits/_dummy_en.txt %}
 </div>
+
+
+
+
+---
+layout: post_en
+title: Dummy Post
+description: Release #00
+lang: en
+---
+
+<audio loop autoplay id="bgm">
+    <source src="/assets/bgm/rel00.mp3" type="audio/mpeg">
+</audio>
+
+<div class="postbox">
+    <table class="postmaintable">
+        <th class="postimage">
+            <h1>[Dummy Post]</h1>
+
+            <img src="/assets/thumb/rel00.png" height="220">
+
+            <br><br>
+
+            <table class="links">
+                <th id="youtube"><a style="display:flex;gap:5px;"><span class="icon-yt-large"></span>YouTube</a></th>
+                <th id="niconico"><a style="display:flex;gap:5px;"><span class="icon-nn-large"></span>niconico</a></th>
+            </table>
+        </th>
+        <th class="postdetails">
+            <h2>Information</h2>
+            <h4>Producers: [Dummy Producer], [Dummy Producer]</h4>
+            <h4>Released: 19th June 2009</h4>
+            <h4>Featuring: [Dummy VOCALOID]</h4>
+            <a id="niconico2">niconico (Original)</a>
+
+            <h2>Cover</h2>
+            <h4>Producer: [Dummy Producer], [Dummy Producer]</h4>
+            <h4>Released: Unreleased</h4>
+            <h4>Featuring: [Dummy VOCALOID]</h4>
+        </th>
+    </table>   
+</div>
+
+<br>
+
+<div class="postbox">
+    <h2>Credits</h2>
+
+    {% include_relative credits/rel00.txt %}
+</div>
+
+<script>
+    var audio = document.getElementById("bgm");
+    audio.volume = 0.1;
+</script>
