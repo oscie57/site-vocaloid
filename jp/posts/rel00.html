@@ -1,0 +1,52 @@
+---
+layout: post_jp
+title: ダミーポスト
+description: リリース#00
+lang: jp
+---
+
+<audio loop autoplay id="bgm">
+    <source src="/assets/bgm/rel00.mp3" type="audio/mpeg">
+</audio>
+
+<div class="postbox">
+    <table class="postmaintable">
+        <th class="postimage">
+            <h1>「ダミーポスト」</h1>
+
+            <img src="/assets/thumb/rel00.png" height="220">
+
+            <br><br>
+
+            <table class="links">
+                <th id="youtube"><a style="display:flex;gap:5px;"><span class="icon-yt-large"></span>YouTube</a></th>
+                <th id="niconico"><a style="display:flex;gap:5px;"><span class="icon-nn-large"></span>ニコニコ動画</a></th>
+            </table>
+        </th>
+        <th class="postdetails">
+            <h2>インフォメーション</h2>
+            <h4>プロデューサー：「ダミープロヂューサー」、「ダミープロヂューサー」</h4>
+            <h4>発売日：「19th June 2009」</h4>
+            <h4>ボーカロイド：「ダミーボーカロイド」</h4>
+            <a id="niconico2" href="">ニコニコ動画（オリジナル）</a>
+
+            <h2>カバー</h2>
+            <h4>プロデューサー：「ダミープロヂューサー」、「ダミープロヂューサー」</h4>
+            <h4>発売日：「Unreleased」</h4>
+            <h4>ボーカロイド：「ダミーボーカロイド」</h4>
+        </th>
+    </table>   
+</div>
+
+<br>
+
+<div class="postbox">
+    <h2>クレジット</h2>
+
+    {% include_relative credits/rel00.txt %}
+</div>
+
+<script>
+    var audio = document.getElementById("bgm");
+    audio.volume = 0.1;
+</script>
