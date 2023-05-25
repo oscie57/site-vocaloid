@@ -5,12 +5,16 @@ description: Release #01
 lang: en
 ---
 
+<audio loop autoplay id="bgm">
+    <source src="/assets/bgm/rel01.mp3" type="audio/mpeg">
+</audio>
+
 <div class="postbox">
     <table class="postmaintable">
         <th class="postimage">
             <h1>Love-Colored Ward</h1>
 
-            <img src="/assets/thumb/rel01.png" height="250">
+            <img src="/assets/thumb/rel01.png" height="220">
 
             <br><br>
 
@@ -41,3 +45,8 @@ lang: en
 
     {% include_relative credits/rel01.txt %}
 </div>
+
+<script>
+    var audio = document.getElementById("bgm");
+    audio.volume = 0.1;
+</script>

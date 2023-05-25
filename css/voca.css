@@ -22,7 +22,6 @@ img {
 }
 a {
     text-decoration: none;
-    color: #5f32c9;
 }
 
 .content {
@@ -56,9 +55,6 @@ a {
 
 .postmaintable {
     width: 100%;
-}
-.postbox h1 {
-    padding-left: 20px;
 }
 .postimage {
     width: 40%;
