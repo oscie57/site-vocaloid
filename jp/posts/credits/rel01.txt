@@ -1,1 +1,44 @@
-ダミークレジット
+無断での再配布はご遠慮ください。<br>
+お問い合わせ先： https://vocaloid.oscie.net/jp/about
+<br><br>
+PVはLillieRoseがMMDで作成しました。
+<br><br>
+ベースモデル - TDA/jjinomu<br>
+https://www.deviantart.com/jjinomu/art/DL-Tda-V4-Flower-3200-WATCHERS-GIFT-561406005
+<br><br>
+モデリングとテクスチャはSEGAが担当<br>
+リッピングスクリプト - minmode, Skyth, Rich Whitehouse, Chrrox<br>
+Fx - khoast40 (MES40)<br>
+リッピング＆ステージアニメーション - Dan1024<br>
+https://www.deviantart.com/dan1024/art/MMD-PDFT-Love-Colored-Ward-Stage-Download-903509084
+<br><br>
+アニメーション/モーション - SEGA/MARZA ANIMATION PLANET INC.<br>
+アニメーション/モーションスクリプト - Minmode<br>
+PD PSPモーションスクリプト - korenkonder<br>
+MMDに変換する - FlyingSpirits<br>
+https://www.fs-pblog.com/post/project-diva-motion-convert-mmd-downloads
+<br><br>
+カメラモーション - SEGA<br>
+リッピングスクリプト - Banitron<br>
+リッピング＆変換 - Banitron<br>
+https://www.deviantart.com/banitron/art/Pack-2-LC-Ward-Rom-Req-Marginal-and-Saihate-761395107
+<br><br>
+MIDI/VPR/VSQx/UST by fevernight123<br>
+作詞・作曲・編曲 - OSTER project<br>
+ボーカロイド - flower/VOCALOID4<br>
+アシスト - LillieRose<br>
+https://www.nicovideo.jp/watch/sm7361534
+<br><br>
+使用したエフェクト<br>
+Raycast 1.5.0 (https://github.com/ray-cast/ray-mmd)
+<br><br>
+MikuMikuDanceを使用して作成しました。<br>
+https://sites.google.com/view/vpvp/<br>
+音声はVOCALOID4で作成<br>
+https://www.vocaloid.com/
+<br><br>
+お問い合わせ、ご意見、ご感想は vocaloid@oscie.net までお願いします。
+<br><br>
+(C) SEGA http://miku.sega.jp<br>
+(C) Crypton Future Media, INC. http://www.crypton.co.jp<br>
+www.piapro.jp 記載の商品名および社名は各社の登録商標です。
