@@ -47,6 +47,33 @@ a {
 }
 
 
+/* Latest commit */
+
+.github-info {
+    text-align: center;
+    font-weight: normal !important;
+
+    color: white;
+
+    align-self: center;
+    align-items: center;
+    align-content: center;
+
+    bottom:0px;
+
+    width: 100%;
+    padding: 10px;
+
+    overflow: hidden;
+    border-radius: 5px;
+}
+.github-info a {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: rgb(21, 255, 0);
+}
+
+
 /* Scroll Bar CSS */
 
 ::-webkit-scrollbar {
