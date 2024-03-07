@@ -1,4 +1,4 @@
-fetch('https://api.github.com/repos/oscie57/oscie57.github.io/branches/vocaloid')
+fetch('https://api.github.com/repos/oscie57site-vocaloid/branches/master')
 .then(resp => resp.json())
 .then(resp => {
     document.getElementById('commit-author').innerHTML = resp.commit.committer.login
